@@ -1,4 +1,7 @@
-Gamepad plugin for the [Freerunner](https://github.com/Sebring/freerunner) game engine.
+# Gamepad Freerunner Plugin
+Adds gamepad support for the [Freerunner](https://github.com/Sebring/freerunner) game engine.
+
+## Overview
 
 Defines a `system` that will listen to connection-events of gamepads as well as life cycle events of `Gamepad`-components (or rather entities including the component).
 
