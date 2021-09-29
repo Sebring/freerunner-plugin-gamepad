@@ -23,23 +23,22 @@ F.loadPlugin(gamepadPlugin)
 ## Milestones
 
 ### 0.1.0
-Support:  
- [x] 1 gamepad
- [x] Connected event
- [ ] Disconnected event
- [x] General gamepad support
- [x] Component for D-pad
- [x] Component for A/B/X/Y
- [ ] Multiple components to one controller
- [ ] Demo of features
+- [x] 1 gamepad
+- [x] Connected event
+- [ ] Disconnected event
+- [x] General gamepad support
+- [x] Component for D-pad
+- [x] Component for A/B/X/Y
+- [ ] Multiple components to one controller
+- [ ] Demo of features
 
 ### 0.2.0
- [ ] Component for directional Axis
- [ ] Component for start/select
- [ ] Demo of features
+- [ ] Component for directional Axis
+- [ ] Component for start/select
+- [ ] Demo of features
 
 ### 1.0.0
- [ ] Multiple gamepads
- [ ] Tested on most common gamepads
- [ ] All buttons supported
- [ ] Documentation
+- [ ] Multiple gamepads
+- [ ] Tested on most common gamepads
+- [ ] All buttons supported
+- [ ] Documentation
