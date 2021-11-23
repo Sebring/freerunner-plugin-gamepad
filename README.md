@@ -1,4 +1,9 @@
-# Gamepad Freerunner Plugin
+<h1 align="center">Gamepad</h1>
+<p align="center"><i>A Freerunner plugin</i></p>
+<p align="center">
+<a href="https://github.com/Sebring/freerunner"><img src="https://img.shields.io/github/package-json/dependency-version/Sebring/freerunner-plugin-gamepad/dev/freerunner"/></a>
+<a href="https://github.com/Sebring/create-freerunner-plugin"><img src="https://img.shields.io/badge/create-freerunner--plugin-green"/></a>
+
 Adds gamepad support for the [Freerunner](https://github.com/Sebring/freerunner) game engine.
 
 ## Overview
