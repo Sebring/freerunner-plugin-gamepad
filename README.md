@@ -3,7 +3,7 @@ Adds gamepad support for the [Freerunner](https://github.com/Sebring/freerunner)
 
 ## Overview
 
-Defines a `system` that will listen to connection-events of gamepads as well as life cycle events of `Gamepad`-components (or rather entities including the component).
+Defines a `system` that will listen to connection-events of gamepads as well as life cycle events of entities with the `Gamepad` -component.
 
 The system will check gamepad inputs before each frame update (`EnterFrame`-event) and notify the components attached to the gamepad. The gamepads will only forward events if the state has changed since last event.
 
